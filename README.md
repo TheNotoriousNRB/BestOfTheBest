@@ -4,6 +4,7 @@ A place to find the best resources to learn something (Specifically CS). I'll tr
 <h1>Instructions:</h1>
 To add a website. Please follow the protocal below: 
 - Link to the website - Brief short description 
+
 To add a Book. Please follow the protocal below. (If u want to upload a book please upload free content. Or just provide the book name)
 - Book name - Author name - Brief short description
 (More Updates comming soon!)
