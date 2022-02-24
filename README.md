@@ -20,7 +20,7 @@ To add a Book. Please follow the protocal below. (If u want to upload a book ple
 <a href = "https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#es20-always-initialize-an-object" > C++ Core Guidelines </a> - is a github repo by Bjarne Stroustrup (creator of C++) and Herb Sutter (an expert in C++). This is a living document under continuous improvement. A lot of recommendation for best practices in various topics.
 
 <h3> Books </h3>
-A Tour of C++ (C++ In-Depth Series) 1st & 2nd Edition - By Bjarne Stroustrup -
+A Tour of C++ (C++ In-Depth Series) 1st & 2nd Edition - By Bjarne Stroustrup - the creator of C++, describes what constitutes modern C++. This concise, self-contained guide covers most major language features and the major standard-library components—not, of course, in great depth, but to a level that gives programmers a meaningful overview of the language, some key examples, and practical help in getting started.
 
 <h2>2. Java </h2>
 <h3> Websites </h3>
