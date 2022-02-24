@@ -1,5 +1,5 @@
 # BestOfTheBest
-A place to find the best resources to learn something (Specifically CS). 
+A place to find the best resources to learn something (Specifically CS). I'll try to provide the best description or atleast point it out with a brief description of the resource. 
 
 <h1>Subject:</h1>
 <h2>1. C++ </h2>
