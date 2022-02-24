@@ -2,10 +2,11 @@
 A place to find the best resources to learn something (Specifically CS). I'll try to provide the description or atleast point it out with a brief description of the resource. 
 
 <h1>Instructions:</h1>
-To add a website. Please follow the protocal below: 
+To add a website. Please follow the protocal below:
+
 - Link to the website - Brief short description 
 
-To add a Book. Please follow the protocal below. (If u want to upload a book please upload free content. Or just provide the book name)
+To add a Book. Please follow the protocal below. (If u want to upload a book please upload free content. Or you just provide the book name below!)
 - Book name - Author name - Brief short description
 (More Updates comming soon!)
 
